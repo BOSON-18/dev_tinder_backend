@@ -1,0 +1,26 @@
+{
+  "name": "devtinderbackend",
+  "version": "1.0.0",
+  "description": "node js application learning from saini sir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOSON-18/dev_tinder_backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Deeshank Batra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BOSON-18/dev_tinder_backend/issues"
+  },
+  "homepage": "https://github.com/BOSON-18/dev_tinder_backend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
